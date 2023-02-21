@@ -1,9 +1,13 @@
 package com.tom
 
 fun main(args: Array<String>){
-  //  Human().Hello()
-    val h = Human()
-    h.Hello()
+    Human().Hello()
+    var age = 19;
+    age = 20;
+    var weight = 66.5f;
+    var name : String
+    name = "Hank"
+
 }
 
 class Human{
